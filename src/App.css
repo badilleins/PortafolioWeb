@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+@keyframes float {
+  0% {
+    transform: translateY(-80px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-130px);
+    opacity: 0;
+  }
+}
+
+.bubble {
+  position: absolute;
+  border-radius: 9999px;
+  background-color: #7dd3fc;
+  opacity: 1;
+  box-shadow: 0 0 20px #7dd3fc;
+  animation-name: float;
+  animation-timing-function: ease-in;
+  animation-iteration-count: infinite;
+  animation-duration: 6s; /* Más duración = flotar más lento */
+}
+
+#resume {
+  background-color: #0c4a6e;
+}
+html {
+  scroll-behavior: smooth;
+}

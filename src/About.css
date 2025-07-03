@@ -1,0 +1,15 @@
+@keyframes float {
+  0% {
+    transform: translateY(0);
+    opacity: 0.7;
+  }
+  100% {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+}
+
+.bubble {
+  @apply absolute rounded-full bg-sky-200 opacity-70;
+  animation: float 6s ease-in infinite;
+}
