@@ -30,7 +30,7 @@ const About = () => {
       <div className="grid sm:grid-cols-2 gap-6 max-w-5xl mx-auto z-10 relative">
         <div className="bg-blue-800/30 p-6 rounded-xl backdrop-blur-md shadow-md">
           <h3 className="text-xl font-semibold mb-2">🏊‍♂️ Fullstack Style</h3>
-        <p>Versatility in frontend, backend, and software architecture. I'm adaptable.</p>
+        <p>Versatility in frontend, backend, software architecture and data analysis. I'm adaptable.</p>
         </div>
         <div className="bg-blue-800/30 p-6 rounded-xl backdrop-blur-md shadow-md">
           <h3 className="text-xl font-semibold mb-2">🎓 Technical Training </h3>
@@ -45,8 +45,8 @@ const About = () => {
           <h3 className="text-xl font-semibold mb-2">🚀 Innovative Spirit</h3>
 <p>I always seek to swim beyond expectations, building solutions with real impact.</p>        </div>
         <div className="bg-blue-800/30 p-6 rounded-xl backdrop-blur-md shadow-md">
-          <h3 className="text-xl font-semibold mb-2">🌐Full Navigation</h3>
-<p>From the calm waters of UI design to the depths of the backend, I've mastered all the lanes.</p>        </div>
+          <h3 className="text-xl font-semibold mb-2">🌐 My Interests</h3>
+<p>Outside of tech, I love swimming (as you can see with the page), caring for animals, 📖 reading, 🎬 watching films, and 🎧 enjoying music — all of which inspire and energize my creative side.</p>        </div>
       </div>
 
 
