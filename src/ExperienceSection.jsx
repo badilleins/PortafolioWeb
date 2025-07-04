@@ -257,7 +257,7 @@ Exploring the Depths of My Journey 🌊🧜‍♂️      </h2>
       </div>
       <div className="text-center mt-12 z-10 relative">
   <a
-    href="/assets/BadilloStalinCV.pdf"
+    href="/assets/CV_BadilloStalin.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="inline-block bg-cyan-300 hover:bg-cyan-500 text-blue-900 font-semibold px-6 py-3 rounded-full shadow-md transition duration-300"
