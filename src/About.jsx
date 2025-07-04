@@ -42,10 +42,10 @@ const About = () => {
           <h3 className="text-xl font-semibold mb-2">🤝 TeamWork</h3>
 <p>As a well-coordinated replacement, I bring communication, trust, and synchronicity to the team.</p>        </div>
         <div className="bg-blue-800/30 p-6 rounded-xl backdrop-blur-md shadow-md">
-          <h3 className="text-xl font-semibold mb-2">🚀  Espíritu innovado</h3>
+          <h3 className="text-xl font-semibold mb-2">🚀 Innovative Spirit</h3>
 <p>I always seek to swim beyond expectations, building solutions with real impact.</p>        </div>
         <div className="bg-blue-800/30 p-6 rounded-xl backdrop-blur-md shadow-md">
-          <h3 className="text-xl font-semibold mb-2">🌐 Navegación completa</h3>
+          <h3 className="text-xl font-semibold mb-2">🌐Full Navigation</h3>
 <p>From the calm waters of UI design to the depths of the backend, I've mastered all the lanes.</p>        </div>
       </div>
 

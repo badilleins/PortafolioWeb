@@ -8,8 +8,8 @@ const levels = {
 };
 
 const languages = [
-  { name: 'Spanish 🇪🇸', level: 'deep' },
-  { name: 'English 🇬🇧', level: 'middle' },
+  { name: 'Spanish', level: 'deep' },
+  { name: 'English', level: 'middle' },
 ];
 
 const Resume = () => (
